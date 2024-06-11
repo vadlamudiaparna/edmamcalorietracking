@@ -1,7 +1,7 @@
-## Food and Exercise Tracking App
+# Food and Exercise Tracking App
 This repository contains a simple tracking application written in Python for monitoring food intake and exercise. The app fetches nutritional information using the Edamam API and tracks the calories consumed and burned throughout the day.
 
-# Description
+## Description
 The Food and Exercise Tracking App allows users to:
 
 Track food intake by fetching nutritional information from the Edamam API.
@@ -18,7 +18,7 @@ Installation
 To run this app locally, you need to have Python installed on your system. Follow these steps to set up the project:
 
 
-# Install the required packages:
+## Install the required packages:
 
 bash
 Copy code
@@ -29,7 +29,7 @@ Replace APP_ID and APP_KEY in the notebook with your Edamam API credentials.
 Usage
 Open the Jupyter notebook Food and Exercise simple tracking app_python code.ipynb.
 
-# Run the cells in the notebook to:
+## Run the cells in the notebook to:
 
 Input your food items and fetch nutritional information.
 Log your exercise activities.
