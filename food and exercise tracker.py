@@ -49,7 +49,7 @@ def manual_entry(food_item):
 # APP_KEY = "your_app_key"
 
 # Specify the full path to the folder where you want to save the Excel file
-folder_path = "C:\\Users\\malla\\OneDrive\\Documents\\Apps created by me"
+folder_path = ""
 excel_file = f"{folder_path}\\food&exercise_tracker.xlsx"
 
 # Check if the folder exists, if not, create it
