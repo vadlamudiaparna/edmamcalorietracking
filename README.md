@@ -23,11 +23,11 @@ To run this app locally, you need to have Python installed on your system. Follo
 bash
 Copy code
 pip install pandas requests openpyxl
-Set up API credentials:
+
+### Set up API credentials:
 
 Replace APP_ID and APP_KEY in the notebook with your Edamam API credentials.
-Usage
-Open the Jupyter notebook Food and Exercise simple tracking app_python code.ipynb.
+Give folder path to your desired folder on your pc
 
 ## Run the cells in the notebook to:
 
